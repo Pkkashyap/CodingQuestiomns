@@ -1,4 +1,4 @@
-package Year_2023.July_07.recursiion;
+package Year_2023.July_07.recursion;
 
 public class ropeCutting {
     public static int solve(int n,int a,int b,int c){

@@ -1,4 +1,4 @@
-package Year_2023.July_07.recursiion;
+package Year_2023.July_07.recursion;
 
 public class generateSubsets {
     public static String subsets(String s,String curr,int i){

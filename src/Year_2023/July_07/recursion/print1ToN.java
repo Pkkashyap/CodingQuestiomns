@@ -1,4 +1,4 @@
-package Year_2023.July_07.recursiion;
+package Year_2023.July_07.recursion;
 
 public class print1ToN {
     public static void print(int n,int k){
